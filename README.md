@@ -136,4 +136,4 @@ If you use this repository, cite the original LibriMix work and the DEMAND datas
 
 ## License
 
-This repository retains the upstream license from the LibriMix codebase. See `LICENSE`.
+This repository retains the upstream license from the LibriMix codebase (See `LICENSE`). Generated datasets are subject to the licenses of LibriSpeech and DEMAND.
