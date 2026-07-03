@@ -1,6 +1,6 @@
 # LibriDEMAND
 
-LibriDEMAND is a dataset-generation repository for creating noisy single-speaker speech mixtures from LibriSpeech speech and DEMAND environmental noise. This codebase was created from a fork of the original LibriMix repository and keeps the LibriMix-style metadata and waveform generation pipeline while replacing WHAM noise with DEMAND-derived noise segments.
+LibriDEMAND is a dataset-generation repository for creating noisy single-speaker speech mixtures from LibriSpeech speech and DEMAND environmental noise. This codebase was created from a fork of the original LibriMix repository (https://github.com/JorisCos/LibriMix) and keeps the LibriMix-style metadata and waveform generation pipeline while replacing WHAM noise with DEMAND-derived noise segments.
 
 This repository currently targets the `Libri1MixDemand` configuration:
 
