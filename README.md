@@ -137,4 +137,3 @@ If you use this repository, cite the original LibriMix work and the DEMAND datas
 ## License
 
 This repository retains the upstream license from the LibriMix codebase. See `LICENSE`.
-# Libri1MixDEMAND
