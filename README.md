@@ -119,18 +119,31 @@ Because `demand_noise` is pre-created, the main generation script skips DEMAND s
 If you use this repository, cite the original LibriMix work and the DEMAND dataset.
 
 ```bibtex
-@article{cosentino2020librimix,
-  title={LibriMix: An Open-Source Dataset for Generalizable Speech Separation},
-  author={Cosentino, Joris and Pariente, Manuel and Cornell, Samuele and Deleforge, Antoine and Vincent, Emmanuel},
-  journal={arXiv preprint arXiv:2005.11262},
-  year={2020}
+@article{cosentinoLibriMixOpenSourceDataset2020a,
+  title = {{{LibriMix}}: An open-source dataset for generalizable speech separation},
+  shorttitle = {{{LibriMix}}},
+  author = {Cosentino, Joris and Pariente, Manuel and Cornell, Samuele and Deleforge, Antoine and Vincent, Emmanuel},
+  year = 2020,
+  journal = {preprint arXiv:2005.11262},
+  eprint = {2005.11262},
+  primaryclass = {eess},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2005.11262},
+  urldate = {2026-04-15}
 }
 
-@inproceedings{thiemann2013demand,
-  title={The Diverse Environments Multi-channel Acoustic Noise Database (DEMAND): A database of multichannel environmental noise recordings},
-  author={Thiemann, Joachim and Ito, Nobutaka and Vincent, Emmanuel},
-  booktitle={Proceedings of Meetings on Acoustics},
-  year={2013}
+@article{thiemannDiverseEnvironmentsMultichannel2013a,
+  title = {The {{Diverse Environments Multi-channel Acoustic Noise Database}} ({{DEMAND}}): {{A}} Database of Multichannel Environmental Noise Recordings},
+  shorttitle = {The {{Diverse Environments Multi-channel Acoustic Noise Database}} ({{DEMAND}})},
+  author = {Thiemann, Joachim and Ito, Nobutaka and Vincent, Emmanuel},
+  year = 2013,
+  journal = {Proc. Meetings on Acoustics},
+  volume = {19},
+  number = {1},
+  pages = {035081},
+  issn = {1939-800X},
+  doi = {10.1121/1.4799597},
+  urldate = {2026-04-16}
 }
 ```
 
